@@ -14,7 +14,7 @@
   <img align="center" alt="Luis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Miranha-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/69944737?width=676&height=676">
+  <img align="right" alt="Miranha-pic" height="150" style="border-radius:50px;" src="https://i1.wp.com/techwek.com/wp-content/uploads/2021/02/piscadina-de-olho.gif?resize=496%2C530&ssl=1">
 </div> 
   
   ##
