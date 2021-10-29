@@ -1,4 +1,8 @@
 ## Hi! I’m LuiszHenrique
+- 🔭 I currently intend to work in front-end
+- 🌱 I’m currently learning JS and React-JS
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: my brain works slowly
 <div align="center">
   <a href="https://github.com/LuiszHenrique">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuiszHenrique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
