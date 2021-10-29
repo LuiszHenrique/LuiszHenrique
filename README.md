@@ -14,7 +14,7 @@
   <img align="center" alt="Luis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Miranha-pic" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/nn8uzAnxuchf2OWXNy/giphy.gif?cid=790b7611f213a1ed7381cf877e190d6bf8707b928dc17018&rid=giphy.gif&ct=g">
+  <img align="right" alt="Miranha-pic" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/7IJlbI0TYWaEo/giphy.gif?cid=790b7611cae94ee56a201f3528645120b341d7731fd51493&rid=giphy.gif&ct=g">
 </div> 
   
   ##
