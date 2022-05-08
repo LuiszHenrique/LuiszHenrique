@@ -1,5 +1,4 @@
 ## Hi! I’m LuiszHenrique
-- 🔭 I currently intend to work in front-end
 - 🌱 I’m currently learning JS and React-JS
 - 😄
 <div align="center">
